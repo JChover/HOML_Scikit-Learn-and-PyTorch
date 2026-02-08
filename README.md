@@ -3,7 +3,7 @@
 > [!NOTE]
 > Book Started: 08/02/2026
 
-This is a test
+This is a test.
 
 ![logo.png](logo.png)
 
