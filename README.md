@@ -509,7 +509,7 @@ Here I will keep track of all the exercises and contents learned while reading t
 ## Screenshots
 
 > [!TIP]
-> Here I will paste some images that I find relevant.
+> Here I will post some images that I find relevant.
 
 
 
