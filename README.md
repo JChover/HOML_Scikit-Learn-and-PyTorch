@@ -1,7 +1,7 @@
 # Hands-On Machine Learning with Scikit-Learn and PyTorch
 
 > [!NOTE]
-> Book Started: 08/02/202
+> Book Started: 08/02/2026
 
 ![logo.png](logo.png)
 
