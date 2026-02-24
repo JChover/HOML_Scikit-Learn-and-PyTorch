@@ -3,8 +3,6 @@
 > [!NOTE]
 > Book Started: 08/02/2026
 
-This is a test.
-
 ![logo.png](logo.png)
 
 ## Table of Contents
@@ -30,17 +28,17 @@ Here I will keep track of all the exercises and contents learned while reading t
 <details open>
 <summary><b>Chapter 1: The Machine Learning Landscape</b> ✔️</summary>
 
-  - [ ] <b>What Is Machine Learning?</b> 👈
-  - [ ] <b>Why Use Machine Learning?</b>
-  - [ ] <b>Examples of Applications</b>
-  - [ ] <b>Types of Machine Learning Systems</b>
-    - [ ] Training Supervision
-    - [ ] Batch Versus Online Learning
-    - [ ] Instance-Based Versus Model-Based Learning
-  - [ ] <b>Main Challenges of Machine Learning</b>
-    - [ ] Insufficient Quantity of Training Data
-    - [ ] Nonrepresentative Training Data
-    - [ ] Poor-Quality Data
+  - [x] <b>What Is Machine Learning?</b> 
+  - [x] <b>Why Use Machine Learning?</b>
+  - [x] <b>Examples of Applications</b>
+  - [x] <b>Types of Machine Learning Systems</b>
+    - [x] Training Supervision
+    - [x] Batch Versus Online Learning
+    - [x] Instance-Based Versus Model-Based Learning
+  - [x] <b>Main Challenges of Machine Learning</b>
+    - [x] Insufficient Quantity of Training Data
+    - [x] Nonrepresentative Training Data
+    - [ ] Poor-Quality Data 👈
     - [ ] Irrelevant Features
     - [ ] Overfitting the Training Data
     - [ ] Underfitting the Training Data
