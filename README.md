@@ -38,16 +38,16 @@ Here I will keep track of all the exercises and contents learned while reading t
   - [x] <b>Main Challenges of Machine Learning</b>
     - [x] Insufficient Quantity of Training Data
     - [x] Nonrepresentative Training Data
-    - [ ] Poor-Quality Data 👈
-    - [ ] Irrelevant Features
-    - [ ] Overfitting the Training Data
-    - [ ] Underfitting the Training Data
-    - [ ] Deployment Issues
-    - [ ] Stepping Back
-  - [ ] <b>Testing and Validating</b>
-    - [ ] Hyperparameter Tuning and Model Selection
-    - [ ] Data Mismatch
-  - [ ] <b>Exercises</b>
+    - [x] Poor-Quality Data
+    - [x] Irrelevant Features
+    - [x] Overfitting the Training Data
+    - [x] Underfitting the Training Data
+    - [x] Deployment Issues
+    - [x] Stepping Back
+  - [x] <b>Testing and Validating</b>
+    - [x] Hyperparameter Tuning and Model Selection
+    - [x] Data Mismatch
+  - [ ] <b>Exercises</b> 👈
 </details>
 
 <details>
